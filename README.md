@@ -28,7 +28,7 @@ https://www.figma.com/design/opLphKmHq2loVdSZdqGywv/skilled-elearning-landing-pa
 2. ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში (კოდის ფაილებთან ერთად).
 
 ![Design Preview](preview.png)
-![Design Preview](preview1png)
+![Design Preview](preview1.png)
 
 #### 🚀 (Optional) ჰოსტინგი
 
